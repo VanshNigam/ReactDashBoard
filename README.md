@@ -1,4 +1,5 @@
 project: React Admin Dashboard
+![image](https://github.com/user-attachments/assets/526645f1-adaf-4055-b3a1-ff16c81a4f53)
 
 description: >
   A modern, responsive, and highly customizable Admin Dashboard built with React,
